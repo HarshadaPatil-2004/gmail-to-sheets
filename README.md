@@ -122,3 +122,7 @@ Screenshots and demo video are included in the `proof/` folder showing:
 - Google Sheet populated by the script
 - OAuth consent screen
 - Terminal execution output
+
+
+## Demo Link
+https://drive.google.com/file/d/1_d7x76nU67Qg6H7lmnjeyffp3uWCUsIC/view?usp=sharing
