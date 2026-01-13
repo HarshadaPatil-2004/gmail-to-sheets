@@ -124,5 +124,5 @@ Screenshots and demo video are included in the `proof/` folder showing:
 - Terminal execution output
 
 
-## Demo Link
+## Demo Video Link
 https://drive.google.com/file/d/1_d7x76nU67Qg6H7lmnjeyffp3uWCUsIC/view?usp=sharing
